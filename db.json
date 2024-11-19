@@ -1,0 +1,103 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "Dr. Alexander Smith",
+      "Designation": "Cardiologist",
+      "description": "Experienced in diagnosing and treating cardiovascular diseases.",
+      "email": "alex.smith@example.com",
+      "img": "https://img.freepik.com/free-photo/medium-shot-doctor-wearing-coat_23-2148816198.jpg?t=st=1732036521~exp=1732040121~hmac=fee95355a9259936a9704e2b051eb218c7830875fdebe84ab599a6f90ad67d7a&w=740",
+      "address": "New York, USA",
+      "phone": "+1-212-555-1234",
+      "fee": "$150"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Liam Johnson",
+      "Designation": "Neurologist",
+      "description": "Specialist in brain and nervous system disorders.",
+      "email": "liam.johnson@example.com",
+      "img": "https://img.freepik.com/free-photo/portrait-young-male-doctor-wearing-eyeglasses_23-2147941751.jpg?t=st=1732036542~exp=1732040142~hmac=b8f69e039792a479f13cfbfcb914bbb5042565a9b99ce6857f813efc8c864185&w=740",
+      "address": "London, United Kingdom",
+      "phone": "+44-20-7946-1234",
+      "fee": "$160"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Raj Patel",
+      "Designation": "Dermatologist",
+      "description": "Expert in treating skin, hair, and nail disorders.",
+      "email": "raj.patel@example.com",
+      "img": "https://img.freepik.com/premium-photo/portrait-young-handsome-indian-man-doctor-white_251136-79250.jpg?w=740",
+      "address": "Toronto, Canada",
+      "phone": "+1-416-555-5678",
+      "fee": "$170"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Michael Brown",
+      "Designation": "Pediatrician",
+      "description": "Specialist in child health and development.",
+      "email": "michael.brown@example.com",
+      "img": "https://img.freepik.com/premium-photo/portrait-neutral-male-doctor_23-2148980698.jpg?w=740",
+      "address": "Sydney, Australia",
+      "phone": "+61-2-5556-7890",
+      "fee": "$180"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Ethan Wilson",
+      "Designation": "Orthopedic Surgeon",
+      "description": "Expert in bone, joint, and muscle disorders.",
+      "email": "ethan.wilson@example.com",
+      "img": "https://img.freepik.com/premium-photo/close-up-portrait-his-he-nice-attractive-smart-clever-cheerful-cheery-doc-professor-emergency-center-owner-director-ceo-boss-chief-isolated-light-white-gray-pastel-color_274222-21030.jpg?w=740",
+      "address": "Auckland, New Zealand",
+      "phone": "+64-9-555-1234",
+      "fee": "$190"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Daniel Garcia",
+      "Designation": "General Physician",
+      "description": "Providing comprehensive healthcare solutions.",
+      "email": "daniel.garcia@example.com",
+      "img": "https://img.freepik.com/premium-photo/young-medical-doctor_93675-37904.jpg?w=740",
+      "address": "Madrid, Spain",
+      "phone": "+34-91-555-4567",
+      "fee": "$150"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Lucas Anderson",
+      "Designation": "Gastroenterologist",
+      "description": "Specializes in digestive system disorders.",
+      "email": "lucas.anderson@example.com",
+      "img": "https://img.freepik.com/free-photo/smiling-young-male-doctor-wearing-medical-robe-stethoscope-standing-isolated-purple-wall-with-copy-space_141793-59803.jpg?t=st=1732036632~exp=1732040232~hmac=fdea3abfc217e1904ed6826dd65d64816429ff8a7bdac29739cbf40748c1af25&w=740",
+      "address": "Berlin, Germany",
+      "phone": "+49-30-555-6789",
+      "fee": "$160"
+    },
+    {
+      "id": 8,
+      "name": "Dr. John Davis",
+      "Designation": "Endocrinologist",
+      "description": "Specialist in hormone-related diseases.",
+      "email": "john.davis@example.com",
+      "img": "https://img.freepik.com/premium-photo/young-bearded-doctor-against-gray-wall_251136-15727.jpg?w=740",
+      "address": "Paris, France",
+      "phone": "+33-1-555-7890",
+      "fee": "$170"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Noah White",
+      "Designation": "Oncologist",
+      "description": "Expert in diagnosing and treating cancer.",
+      "email": "noah.white@example.com",
+      "img": "https://img.freepik.com/free-photo/young-male-doctor-white-suit-with-blue-stethoscope-holding-notepad-smiling_140725-29525.jpg?t=st=1732036655~exp=1732040255~hmac=a11c28806583c678680b0b2c5e805352bb43e9eb6651869af906c2a695106ee3&w=740",
+      "address": "Tokyo, Japan",
+      "phone": "+81-3-555-1234",
+      "fee": "$180"
+    }
+  ]
+}
